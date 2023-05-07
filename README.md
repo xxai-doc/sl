@@ -4,7 +4,7 @@
 
 Sprednja koda spletnega mesta je odprtokodna, dobrodošli, da pomagate optimizirati prevod
 
-* [sprednja koda](https://github.com/xxai-art/web)
+* [Koda sprednjega dela](https://github.com/xxai-art/web)
 * [Jezikovni paketi za spletno mesto kot celoto](https://github.com/xxai-art/web/tree/main/i18n)
 * [Jezikovni paketi za prijavne module](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Večjezična dokumentacija spletne strani](https://github.com/xxai-doc)
